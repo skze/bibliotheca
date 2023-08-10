@@ -108,7 +108,7 @@ Makes quality a part of everyone's job and that should improve project managemen
 
 ## Quality Management
 
-Quality needs to be managed. It can be broken in 3 key aspects:
+Quality needs to be managed. It can be broken in 3 key processes:
 
 1. Planning
 2. Assurance
@@ -139,6 +139,147 @@ you want to make a Pizza
 
 ## Applying Lean
 
+Lean is a process developeb. byy Toyota (toyota production systems)]
+Why is important?
+- use lean to elimitnate wsaste and crette efficientis in the delivery process
+
+Goal of Lean : Improving efficienty by eliminating waste
+
+Gemba: go to the place where the task is performed
+
+kaizen: conduct a workshop to redesign a process and improve efficiency
+
+Muda: eight types of waste associated with current process
+
+- transportation
+- inventory
+- motion
+- waiting
+- overproduction
+- overprocessing
+- defects
+- skills
+
+Kanban boards
+backlog - ToDo - onGoing - Done
+> tracks the status of project tasks
+> another option is a poke (option list)
+
+Order and organization is a part of minimizing waste - and managenent qwuality
+
+5-S
+
+> sort thing
+> set in order
+> shine (or clean them)
+> standardize (process)
+> sustain the new organiza
+
+steven brown : Lean :LinkedIn Learning
+
+### Applying Six-Sigma in projects
+
+it is a process improvement technique created around statistics and statistical process control metrics
+
+> we want to reduce defects by minimizing the variabliity in the process and we can do this by using process DMAIC
+
+Define : define what to do, process
+Measure: select metrics for measurement
+Analyze: check the results and identify sources of variability
+Improve: improve the process (by selecting the best combiination of veriables)
+Control: keep control over the selected improved process
+
+This process focuese in industrial level HW and ddevelopments - but in theory should be applicable to any process defined including SW development
+
+> objective: reduce variability -= in order to increase quality
+
+
+### Applyting Agile in projects
+- focuses on SW development
+- previous methodolofies where slow, costly and frustrating for SW development
+- Agile manifesto - new approach to manage SW projects
+
+here are the main values:
+> Individuals and interations over processes and tools
+> working SW over comprehensive documentation
+> customer collaboration over contract negotiation
+> responding to change over following a plan
+
+this leads to a faster, more effective process to SW development
+
+another key aspect is that work gets done in smaller increments - called sprints
+> mini-project with short timeline
+> team working on each sprint is called a Scrum-team
+> at the end of this sprint, this team delivers a finish product
+> this means that both develoepment and testing needs to be completed
+> this makes it easier to prioritize work and identify issues quickly
+
+## House of Quality
+
+helps you show the relationship between featurwes and requirements - so we can make smart choices in the project.
+
+the official name for this is "quality functional deployment" - QFD (or house fo quality)
+
+Quality depends on the features of each product and the requiments
+
+1. list the requirements - what our customer wants
+> fast
+> safe 
+> efficient
+
+2. add priorities
+> safe (1) > efficient (2) > fast (1)
+
+3. add the features:
+> lluggage, engine type, format, shape, aspect, design, ...(optiosn the product can include
+
+4. put a roof over the house of quality
+> it lets us see how the features relate to each others
+> some of them relate others are imcompatible
+
+it is used primarily for competitive analysis
+
+useful to identify which features of product or project are essentially to meet requirements - and maximize value created with the projects
+
+
+## Pareto Analysis
+
+80/20 rule
+
+> allows to identify the correct part of the wqork where quality changes cann have the hisght impact
+
+
+## Quantitative Metriecs
+
+> when we want objective understanding of what happens without the need for peoples opinions
+> need to develop quantitative metrics for project
+> generally quant data can measure a process or product
+> what are you trying to measure - product characteristics? Amount of time to complete task? orthers
+> if we cannot measure things directly, then the next best approach is 'proxy measurement'
+> these metrics are only as useful as the process used to collect this data
+> data needs to be as accurate as possible
+> need also to think abou the precision when calculating metrics - do we round up or use 0.00x point precision?
+> use graphs and charts to identify data and trends in data
+
+## Qualitative Metrics
+
+> quality is subjective
+> this measures peoples opinions
+> A/B testing -  binary
+> ranges -1:10
+> interviews andb= surveys or listening to groups
+
+## Testing, audits and inspections
+
+> inspections: observation and report of work processes
+> audit: like inspection but more formal review of errors and decifiencies
+> testing:L exammination of product to check if product complies with expected specs
+
+quality assurance:
+> inspections and audits
+
+quality control
+> testingw
 
 ---
 
