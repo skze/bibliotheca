@@ -1,4 +1,4 @@
-# Project Management - Quality
+=# Project Management - Quality
 
 source: LinkedIn Learning
 teacher: Daniel Stanton
@@ -9,19 +9,32 @@ date: Aug/2023
 The information taken here was part of the course. Additional information was 
 added to provide a more comprehenside understanding on the topic.
 
+to A Guide to the Project Management Body of Knowledge (PMBOK® Guide), quality
+
+
 ---
 
 ## Introduction
 
 *What Is Project Quality Management?*
 
-
 Project quality management is the process of defining quality standards for the deliverables of a project, as well as the quality assurance measures to guarantee those standards are met.
+
+Within this context the term "quality" represents a combination:
+
+* risk management, keeping track of tasks, timelines and resources
+* verifying deliverables against requirements/specs
+* and stakeholder management
 
 > Project Quality Management processes include all the activities of the performing organization that determine quality policies, objectives, and responsibilities so that the project will satisfy the needs for which it was undertaken. [4]
 
+Modern *quality management* and *project management* are complementary activities. Both emphasize stakeholder satisfaction and minimizing deficiencies, wastes and guaranteeing correct delivery of project outputs.
 
-### Project
+One key aspect is that to ensure project quality it is necessary to - meet customers expectactions - ensuring that the project meets the planned and agreed outcomes - nothing more, nothing less :)
+
+---
+
+## Project
 
 **Project Steps**
 
@@ -29,9 +42,16 @@ There are 4 main phases to the project-quality-tracking process. These include 1
 
 **Purpose**
 
-The main objective of project quality management is ensuring that the team is working in the right direction to achieve the set goals. It focuses on quality aspects - which can be measured, tracked and analyzed.
+The main objective of project quality management is ensuring that the team is 
+working in the right direction to achieve the set goals. 
+It focuses on quality aspects - which can be measured, 
+tracked and analyzed.
 
-Project managers further define these for their project through a quality management plan. A quality management plan is a document that helps project management teams establish quality planning, quality control and quality assurance procedures.
+Project managers further define these for their project 
+through a quality management plan. A quality management plan 
+is a document that helps project management teams establish 
+quality planning, quality control and quality assurance 
+procedures.
 
 
 ///!(http://www.pmworkplace.com/PMP/A_Guide_to_the_Project_Management_Body_of_Knowledge_PMBOKGuide/images/9342182-00_0.jpg)
@@ -44,18 +64,23 @@ http://www.pmworkplace.com/PMP/A_Guide_to_the_Project_Management_Body_of_Knowled
 ...
 
 
-
-Within the context of project management, "quality" is simply what the customer or stakeholder needs from the project deliverables. Project quality management can be simply defined and measured in 3 key aspects:
+Within the context of project management, "quality" is simply what the customer or stakeholder needs from the project deliverables. Project quality management can be simply defined and measured in 3 key aspects
 
 - Quality planning: identified which 
 - quality assurance
 - quality control
 
-Quality is measured by comapring the attributes of a product or service and the expectations. It is a subjectvie comparison because quality is often a selling poing
+Quality is measured by comparing the attributes of a 
+product or service and the expectations. It is a 
+subjectvie comparison because quality is often a 
+selling poing.
 
-Within Project management context , qualityt is defined as the degree with which the project has meet its requirements.
+## Key Concepts
 
-Key Concepts:
+Hereafter follows a compilation of key concepts needed for quality management.
+For each concept it is provided a short description, example and/or further references.
+
+**Key Concepts:**
 
 - Continuous Improvements
 - Planning, Assurance and Control
@@ -94,76 +119,124 @@ Try:
 
 [ add figure 1`0 concepts quality here ]
 
-## Continuous Improvement
+## Project Quality Management Phases
 
-Makes quality a part of everyone's job and that should improve project management.
+< TODO >
 
-1. Assess project plans
-> make sure to question assumptions and scope
+### Continuous Improvement
 
-2. Assess project management process
-> identify ways to reduce cost, improve efficiency, effective tracking, and provide more value
+Makes quality a part of everyone's job and that should
+improve project management.
+
+1. Assess project plans: make sure to question assumptions and scope
+
+2. Assess project management process: identify ways to 
+reduce cost, improve efficiency, effective tracking, 
+and provide more value
 
 <!> small improvements can add up and leat to massive gains in the long run
 
-## Quality Management
+### Quality Planning
 
-Quality needs to be managed. It can be broken in 3 key processes:
-
-1. Planning
-2. Assurance
-3. Control
-
-### Planning
-
-Key aspect to planning is to limit
-- limit and define well the scope of work
+Planning occur at the initial stages of project - the key objectives is to:
+- define and limit the scope of work within the project
 - develop a clear set of requirements to measure quality of project
 
-### Assurance
+Note that quality metrics defined in this project should only obe applicable in
+this project.
+
+
+Defines the scope, schedule, budget, inputs and outomts etc. It is the method to define the relevant aspects withih the projce.
+Within planning stage it is also defined the critical aspects and factors that lead to successfull project.
+
+Planning should include:
+- Objectives
+- scope
+- policies
+- criteria
+- expected inputs and outputs
+- cost, budge
+- scheduling
+- assumptions and considerations
+- Processes
+- Stakeholders, roles and responsibilities
+- Applied standards (internal, external)
+- metrics to measure quality
+
+Each project should have a specific tracking and control proess - that is set before project starts.
+
+<!> note: the quality planning process is part of a larger "project planning phase" which includes non-quality topics.
+
+Outcome: THere should be documentation outlining the quality management plan  - and all the necessary quality informaiton. Thus inclides:
+
+// IMportant
+- "Determint quality": need to define twhat is quality for the project - this might vary from orfanization-to-org; and also between different projects.
+- "Conduct gap analysis" 
+- /// copy
+Here, you identify the gap between where you are and where you need to be. This leads to the creation of a quality team, which is comprised of people across all departments and levels.
+Define the roles and responsibilities for quality management: These people are accountable for each step in the quality management plan.
+Establish Quality Control Procedures: Once you’ve defined what your quality standards are, you’ll need to establish procedures to measure whether those standards are being met or not, which is known as quality control.
+Create acceptance criteria: This is tied to how you’ll do testing and review. Once you identify weaknesses, brainstorm with your team and integrate the needed quality improvements to your product or service.
+Things to Avoid When Quality Pl
+
+/// copy
+
+
+
+### Quality Assurance
+
+Next, project management needs to guarantee assurance on ongoing project:
 - stick to the plan and follow processes correctly
 - track progress towards deliverable
 - monitor budget
-- also included potential changes which improve the quality in our project.
+- also include potential changes which improve the quality in our project.
 
-### Control
-- Includes all the measurements and controls which can applied to the project.
+### Quality Control
+
+Quality control focuses on measuring and tracking the data from metrics previously agreed.
+- includes all the measurements and controls which can applied to the project.
 - includes measuring the results and outcomes of a project to ensure that they meet our requirements
 - could involve testing, auding and certifications of products or processes
 
-Example:
-you want to make a Pizza
+> Example: you want to make a Pizza
 1. planning includes defining the task needs: ingrediaents, utelsiz, kitchen, oven
 2. assurance includes making sure we follow the recipe, cleaning the kitchen
 3. quality cointolr includes checking for the final result pizzza (taste, size, etc..)
 
-## Applying Lean
+### Continuous Improvement 
 
-Lean is a process developeb. byy Toyota (toyota production systems)]
+Add
+
+---
+
+## Methodologies and Frameworks
+
+To be able to achieve the desired goal to manage the quality of
+project effectively, there are a number of existing methodologies
+and frameworks. Here is a summary.
+
+### Applying Lean
+
+Lean is a process developed by Toyota (toyota production systems)]
+
 Why is important?
 - use lean to elimitnate wsaste and crette efficientis in the delivery process
 
 Goal of Lean : Improving efficienty by eliminating waste
 
-Gemba: go to the place where the task is performed
-
-kaizen: conduct a workshop to redesign a process and improve efficiency
-
-Muda: eight types of waste associated with current process
-
-- transportation
-- inventory
-- motion
-- waiting
-- overproduction
-- overprocessing
-- defects
-- skills
-
-Kanban boards
-backlog - ToDo - onGoing - Done
-> tracks the status of project tasks
-> another option is a poke (option list)
+- Gemba: go to the place where the task is performed
+- kaizen: conduct a workshop to redesign a process and improve efficiency
+- Muda: eight types of waste associated with current process
+  - transportation
+  - inventory
+  - motion
+  - waiting
+  - overproduction
+  - overprocessing
+  - defects
+  - skills
+- Kanban boards: tracks the status of the project tasks
+> backlog - ToDo - onGoing - Done
 
 Order and organization is a part of minimizing waste - and managenent qwuality
 
@@ -275,53 +348,12 @@ useful to identify which features of product or project are essentially to meet 
 > audit: like inspection but more formal review of errors and decifiencies
 > testing:L exammination of product to check if product complies with expected specs
 
-quality assurance:
-> inspections and audits
+quality assurance:  inspections and audits
 
-quality control
-> testingw
+quality control: testing
 
 ---
 
-## Quality Processes
-
-
-### Quality Plannning
-
-Defines the scope, schedule, budget, inputs and outomts etc. It is the method to define the relevant aspects withih the projce.
-Within planning stage it is also defined the critical aspects and factors that lead to successfull project.
-
-Planning should include:
-- Objectives
-- scope
-- policies
-- criteria
-- expected inputs and outputs
-- cost, budge
-- scheduling
-- assumptions and considerations
-- Processes
-- Stakeholders, roles and responsibilities
-- Applied standards (internal, external)
-- metrics to measure quality
-
-Each project should have a specific tracking and control proess - that is set before project starts.
-
-<!> note: the quality planning process is part of a larger "project planning phase" which includes non-quality topics.
-
-Outcome: THere should be documentation outlining the quality management plan  - and all the necessary quality informaiton. Thus inclides:
-
-// IMportant
-- "Determint quality": need to define twhat is quality for the project - this might vary from orfanization-to-org; and also between different projects.
-- "Conduct gap analysis" 
-- /// copy
-Here, you identify the gap between where you are and where you need to be. This leads to the creation of a quality team, which is comprised of people across all departments and levels.
-Define the roles and responsibilities for quality management: These people are accountable for each step in the quality management plan.
-Establish Quality Control Procedures: Once you’ve defined what your quality standards are, you’ll need to establish procedures to measure whether those standards are being met or not, which is known as quality control.
-Create acceptance criteria: This is tied to how you’ll do testing and review. Once you identify weaknesses, brainstorm with your team and integrate the needed quality improvements to your product or service.
-Things to Avoid When Quality Pl
-
-/// copy
 
 ##### What to avoid
 
@@ -335,20 +367,6 @@ Things to Avoid When Quality Pl
 - [stakeholdermap.com/quality-management-plan.word](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.stakeholdermap.com%2Fproject-templates%2Fquality-management-plan.doc&wdOrigin=BROWSELINK)
 - [CDC_UP_Quality_Management_Plan_Template.word](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww2a.cdc.gov%2Fcdcup%2Flibrary%2Ftemplates%2FCDC_UP_Quality_Management_Plan_Template.doc&wdOrigin=BROWSELINK)
 
-
-## Other Processes
-Customer satisfaction. 
-
-Prevention over inspection.
-
-Management responsibility.
-
-Continuous improvement.
-
-
----
-
-## References
 
 
 ## References
