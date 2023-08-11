@@ -230,22 +230,19 @@ Add
 
 ## Methodologies and Frameworks
 
-To be able to achieve the desired goal to manage the quality of
-project effectively, there are a number of existing methodologies
+To be able to achieve the desired goal to manage the quality of project effectively, there are a number of existing methodologies
 and frameworks. Here is a summary.
 
-### Applying Lean
+#### Lean
 
-Lean is a process developed by Toyota (toyota production systems)]
+Lean is a process developed by Toyota (traditionally known as "toyota production system"). It's main objective is to 
+'eliminate waste' and create efficiences in the delivery process and/or product.
+It includes a number of processes and concepts:
 
-Why is important?
-- use lean to elimitnate wsaste and crette efficientis in the delivery process
-
-Goal of Lean : Improving efficienty by eliminating waste
-
-- Gemba: go to the place where the task is performed
-- kaizen: conduct a workshop to redesign a process and improve efficiency
-- Muda: eight types of waste associated with current process
+* Kanban boards: tracks the status of the project tasks (backlog - ToDo - onGoing - Done)
+* Gemba: go to the place where the task is performed
+* Kaizen: conduct a workshop to redesign a process and improve efficiency
+* Muda: eight types of waste associated with current process
   - transportation
   - inventory
   - motion
@@ -254,8 +251,6 @@ Goal of Lean : Improving efficienty by eliminating waste
   - overprocessing
   - defects
   - skills
-- Kanban boards: tracks the status of the project tasks
-> backlog - ToDo - onGoing - Done
 
 Order and organization is a part of minimizing waste - and managenent qwuality
 
@@ -269,21 +264,20 @@ Order and organization is a part of minimizing waste - and managenent qwuality
 
 steven brown : Lean :LinkedIn Learning
 
-### Applying Six-Sigma in projects
+#### Six-Sigma
 
-it is a process improvement technique created around statistics and statistical process control metrics
+This is a process improvement technique created around statistics and statistical process control metrics and focuses on reducing product 
+variability in order to increase quality. It's main objective is to reduce product or process defects by minimizing the variabiilty in the 
+process. it follows the DMAIC methodology (see below). Although this process was developed primarily for industrial context such as
+Hardware, in theory it can be applicable to any process defined including SW development
 
-> we want to reduce defects by minimizing the variabliity in the process and we can do this by using process DMAIC
+DMAIC Methodology:
+* Define : define what to do, process
+* Measure: select metrics for measurement
+* Analyze: check the results and identify sources of variability
+* Improve: improve the process (by selecting the best combiination of veriables)
+* Control: keep control over the selected improved process
 
-Define : define what to do, process
-Measure: select metrics for measurement
-Analyze: check the results and identify sources of variability
-Improve: improve the process (by selecting the best combiination of veriables)
-Control: keep control over the selected improved process
-
-This process focuese in industrial level HW and ddevelopments - but in theory should be applicable to any process defined including SW development
-
-> objective: reduce variability -= in order to increase quality
 
 #### Agile
 
@@ -292,7 +286,7 @@ methodologies: slow pace, costly, difficult to adapt to changing requirements an
 The [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/) provide a new approach to manage SW projects,
 focusing on people, communication and working SW rather than traditional process-heavy approaches.
 Within this framework, teams are typically self-organized and work in small increments called sprints. This way it is possible
-to accomodate any cange or 
+to accomodate any change of requirements and improves the speed of both development and testing.
 
 Main Values:
 * *Individuals and interations over processes and tools*
@@ -300,12 +294,7 @@ Main Values:
 * *Customer collaboration over contract negotiation*
 * *Responding to change over following a plan*
 
-another key aspect is that work gets done in smaller increments - called sprints
-> mini-project with short timeline
-> team working on each sprint is called a Scrum-team
-> at the end of this sprint, this team delivers a finish product
-> this means that both develoepment and testing needs to be completed
-> this makes it easier to prioritize work and identify issues quickly
+Refs: [Atlassian-Agile](https://www.atlassian.com/agile)
 
 #### House of Quality
 
@@ -322,7 +311,6 @@ Refs:[LucidChart-HoQ](https://www.lucidchart.com/blog/qfd-house-of-quality), [Ge
 
 Pareto analysis dictates (or statistically represents) the scenario where 80% of the errors or defects come as a results from 20% of the sources.
 Using this principle we can try to identify the part of the work where quality changes can have the hightest impact.
-
 
 #### Quantitative Metrics
 
@@ -353,7 +341,6 @@ Typically, QA uses inpections and audits while QC uses testing.
 * Inspections: observation and report of work processes
 * Audit: like inspection but more formal review of errors and decifiencies
 * Testing:L exammination of product to check if product complies with expected specs
-
 
 
 ##### What to avoid
