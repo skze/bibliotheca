@@ -1,4 +1,4 @@
-=# Project Management - Quality
+# Project Management - Quality
 
 source: LinkedIn Learning
 teacher: Daniel Stanton
@@ -11,8 +11,6 @@ added to provide a more comprehenside understanding on the topic.
 
 to A Guide to the Project Management Body of Knowledge (PMBOK® Guide), quality
 
-
----
 
 ## Introduction
 
@@ -32,48 +30,66 @@ Modern *quality management* and *project management* are complementary activitie
 
 One key aspect is that to ensure project quality it is necessary to - meet customers expectactions - ensuring that the project meets the planned and agreed outcomes - nothing more, nothing less :)
 
----
-
 ## Project
 
 **Project Steps**
 
-There are 4 main phases to the project-quality-tracking process. These include 1) planning, 2) control, 3) assurance and 4) improvement.
+There are 3 main phases to the project-quality-tracking process. These include 1) planning, 2) control and 3) assurance.
+Certain references include additional phases, example:
+* phase before planning called 'standards'
+* phase after assurance called 'improvements'
 
 **Purpose**
 
-The main objective of project quality management is ensuring that the team is 
-working in the right direction to achieve the set goals. 
-It focuses on quality aspects - which can be measured, 
-tracked and analyzed.
+The main objective of project quality management is ensuring that the team is working in the right direction to achieve the set goals. 
+It focuses on quality aspects - which can be measured, tracked and analyzed.
 
-Project managers further define these for their project 
-through a quality management plan. A quality management plan 
-is a document that helps project management teams establish 
-quality planning, quality control and quality assurance 
-procedures.
+Project managers further define these for their project through a quality management plan (QMP). A quality management plan 
+is a document that helps project management teams establish quality planning, quality control and quality assurance procedures.
+
+**What is Quality**
+
+Quality is measured by comparing the attributes of a product or service and the expectations. It is a 
+subective comparison because quality is often a selling poing.
+
+**Quality Standards**
+
+Provide requirements, specifications, or guidelines that can be used to ensure that products, processes pr services are fit for achieving the desired outcome.
+This should be set at the beginning of the project, in order to make sure the team and stakeholders understand exactly what they are.
+
+**Quality Planning**
+
+The actions of the project manager or the team to establish a process for identifying and determining exactly which standards of quality are relevant to the project.
+Quality planning should define a quality plan which includes a set of periodic audits to check if all the necessary procedures are being followed, including regular check-ins and discussion with stakeholders
+
+Here are some questions to guide the planning process:
+
+* *What outcomes do my custmers want?*
+* *What does quality looks like for them?*
+* *How can I meet their expectations?*
+* *How will I determine if the quality measure will lead to project success?*
 
 
-///!(http://www.pmworkplace.com/PMP/A_Guide_to_the_Project_Management_Body_of_Knowledge_PMBOKGuide/images/9342182-00_0.jpg)
+**Quality Assurance (QA)**
 
-![a](project_quality_management.jpg)
+Evaluating if your project is moving towards delivering a high-quality service or product. This is a 
+quality procedure step that checks that stakeholders are getting the excactly product previously agreed upon.
 
-http://www.pmworkplace.com/PMP/A_Guide_to_the_Project_Management_Body_of_Knowledge_PMBOKGuide/images/9342182-00_0.jpg
+**Quality Control (QC)**
 
+This step involves monitoring project results and delivery to determine if they are meeting desired results or not
+techniques are used in order to ensure quality standards when a problem is identified.
 
-...
+---
+'''![aa](https://www.projectengineer.net/wp-content/uploads/2016/12/pmbok-knowledge-area-project-quality-management.png) '''
 
+![ab](http://www.pmworkplace.com/PMP/A_Guide_to_the_Project_Management_Body_of_Knowledge_PMBOKGuide/images/9342182-00_0.jpg)
 
-Within the context of project management, "quality" is simply what the customer or stakeholder needs from the project deliverables. Project quality management can be simply defined and measured in 3 key aspects
+---
 
-- Quality planning: identified which 
-- quality assurance
-- quality control
+[![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectengineer.net%2Fproject-quality-management-according-to-the-pmbok%2F&psig=AOvVaw30V0DRhxPPajjvTMDq3FX3&ust=1691848768638000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjg2pv44dSAAxWTpekKHfD7AKgQjRx6BAgAEAw))](https://digitalocean.com)
 
-Quality is measured by comparing the attributes of a 
-product or service and the expectations. It is a 
-subjectvie comparison because quality is often a 
-selling poing.
+![image info](pictures/image.png)
 
 ## Key Concepts
 
@@ -207,6 +223,8 @@ Quality control focuses on measuring and tracking the data from metrics previous
 
 Add
 
+
+
 ---
 
 ## Methodologies and Frameworks
@@ -266,19 +284,20 @@ This process focuese in industrial level HW and ddevelopments - but in theory sh
 
 > objective: reduce variability -= in order to increase quality
 
+#### Agile
 
-### Applyting Agile in projects
-- focuses on SW development
-- previous methodolofies where slow, costly and frustrating for SW development
-- Agile manifesto - new approach to manage SW projects
+The Agile framework is popular within the context of SW development. It tries to address known issues with traditional SW developement
+methodologies: slow pace, costly, difficult to adapt to changing requirements and frustrating for SW development.
+The [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/) provide a new approach to manage SW projects,
+focusing on people, communication and working SW rather than traditional process-heavy approaches.
+Within this framework, teams are typically self-organized and work in small increments called sprints. This way it is possible
+to accomodate any cange or 
 
-here are the main values:
-> Individuals and interations over processes and tools
-> working SW over comprehensive documentation
-> customer collaboration over contract negotiation
-> responding to change over following a plan
-
-this leads to a faster, more effective process to SW development
+Main Values:
+* *Individuals and interations over processes and tools*
+* *Working SW over comprehensive documentation*
+* *Customer collaboration over contract negotiation*
+* *Responding to change over following a plan*
 
 another key aspect is that work gets done in smaller increments - called sprints
 > mini-project with short timeline
@@ -287,44 +306,27 @@ another key aspect is that work gets done in smaller increments - called sprints
 > this means that both develoepment and testing needs to be completed
 > this makes it easier to prioritize work and identify issues quickly
 
-## House of Quality
+#### House of Quality
 
-helps you show the relationship between featurwes and requirements - so we can make smart choices in the project.
+House-of-quality is a practise that helps to show the relationship between features and requirements - so we can make smart choices in the project.
+The official name for this is "quality functional deployment" QFD (or HOQ, House-of-Quality).
 
-the official name for this is "quality functional deployment" - QFD (or house fo quality)
+House of Quality is a product planning matrix that is used to show how your customer requirements relate directly to the actions you can take to achieve those requirements. 
+HOQ diagrams resemble the shape of a house and should be created using direct customer input if applicable. HOQ is considered the primary tool in QFD and serves as the roadmap for describing the journey from initial idea to final product or service specifics. 
+This methodology is useful as it allows to identify which features of product or project are essentially to meet requirements - and maximize value created with the project.
 
-Quality depends on the features of each product and the requiments
+Refs:[LucidChart-HoQ](https://www.lucidchart.com/blog/qfd-house-of-quality), [GeeksforGeeks-HoQ](https://www.geeksforgeeks.org/house-of-quality-example-in-software-quality/), [isixsigma-HoQ](https://www.isixsigma.com/dictionary/house-of-quality/)
 
-1. list the requirements - what our customer wants
-> fast
-> safe 
-> efficient
+#### Pareto Analysis
 
-2. add priorities
-> safe (1) > efficient (2) > fast (1)
-
-3. add the features:
-> lluggage, engine type, format, shape, aspect, design, ...(optiosn the product can include
-
-4. put a roof over the house of quality
-> it lets us see how the features relate to each others
-> some of them relate others are imcompatible
-
-it is used primarily for competitive analysis
-
-useful to identify which features of product or project are essentially to meet requirements - and maximize value created with the projects
+Pareto analysis dictates (or statistically represents) the scenario where 80% of the errors or defects come as a results from 20% of the sources.
+Using this principle we can try to identify the part of the work where quality changes can have the hightest impact.
 
 
-## Pareto Analysis
+#### Quantitative Metrics
 
-80/20 rule
+Quantitative metrics allow to when we want objective understanding of what happens without the need for peoples opinions
 
-> allows to identify the correct part of the wqork where quality changes cann have the hisght impact
-
-
-## Quantitative Metriecs
-
-> when we want objective understanding of what happens without the need for peoples opinions
 > need to develop quantitative metrics for project
 > generally quant data can measure a process or product
 > what are you trying to measure - product characteristics? Amount of time to complete task? orthers
@@ -334,25 +336,23 @@ useful to identify which features of product or project are essentially to meet 
 > need also to think abou the precision when calculating metrics - do we round up or use 0.00x point precision?
 > use graphs and charts to identify data and trends in data
 
-## Qualitative Metrics
+#### Qualitative Metrics
 
-> quality is subjective
-> this measures peoples opinions
-> A/B testing -  binary
-> ranges -1:10
-> interviews andb= surveys or listening to groups
+Quality is subjective from person-to-person. We can use qualitative metrics to try to 'measure' oppinions
+about the project activities and scope. This measures peoples opinion on the project, here are some examples:
 
-## Testing, audits and inspections
+* A/B testing -  binary options
+* Ranges - using range value as options 1:10
+* Interviews and surveys or listening to groups
 
-> inspections: observation and report of work processes
-> audit: like inspection but more formal review of errors and decifiencies
-> testing:L exammination of product to check if product complies with expected specs
+#### Testing, audits and inspections
 
-quality assurance:  inspections and audits
+Typically, QA uses inpections and audits while QC uses testing.
 
-quality control: testing
+* Inspections: observation and report of work processes
+* Audit: like inspection but more formal review of errors and decifiencies
+* Testing:L exammination of product to check if product complies with expected specs
 
----
 
 
 ##### What to avoid
@@ -375,6 +375,7 @@ quality control: testing
 2. 
 3. [Quality in project management - a practical look at chapter 8 of the PMBOK® guide](https://www.pmi.org/learning/library/quality-project-management-tools-7177)
 4. [A Guide to Project Management Body of Knowledge, Chapter 8](http://www.pmworkplace.com/PMP/A_Guide_to_the_Project_Management_Body_of_Knowledge_PMBOKGuide/)
-
+5. [Quality Management and Continuous Improvement | Google Project Management Certificate](https://www.youtube.com/watch?v=QOy2gYuWxSc)
+6. 
 
 - **Reference:** *Chapter 8 of A Guide to the Project Management Body of Knowledge, Third Edition (PMBOK® Guide)*
