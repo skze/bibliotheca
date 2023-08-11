@@ -146,6 +146,7 @@ improve project management.
 
 1. Assess project plans: make sure to question assumptions and scope
 
+
 2. Assess project management process: identify ways to 
 reduce cost, improve efficiency, effective tracking, 
 and provide more value
