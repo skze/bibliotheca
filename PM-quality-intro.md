@@ -12,6 +12,7 @@ added to provide a more comprehenside understanding on the topic.
 to A Guide to the Project Management Body of Knowledge (PMBOK® Guide), quality
 
 
+
 ## Introduction
 
 *What Is Project Quality Management?*
@@ -153,7 +154,7 @@ and provide more value
 
 <!> small improvements can add up and leat to massive gains in the long run
 
-### Quality Planning
+#### Quality Planning
 
 Planning occur at the initial stages of project - the key objectives is to:
 - define and limit the scope of work within the project
@@ -200,7 +201,7 @@ Things to Avoid When Quality Pl
 
 
 
-### Quality Assurance
+#### Quality Assurance
 
 Next, project management needs to guarantee assurance on ongoing project:
 - stick to the plan and follow processes correctly
@@ -208,7 +209,7 @@ Next, project management needs to guarantee assurance on ongoing project:
 - monitor budget
 - also include potential changes which improve the quality in our project.
 
-### Quality Control
+#### Quality Control
 
 Quality control focuses on measuring and tracking the data from metrics previously agreed.
 - includes all the measurements and controls which can applied to the project.
@@ -220,7 +221,7 @@ Quality control focuses on measuring and tracking the data from metrics previous
 2. assurance includes making sure we follow the recipe, cleaning the kitchen
 3. quality cointolr includes checking for the final result pizzza (taste, size, etc..)
 
-### Continuous Improvement 
+#### Continuous Improvement 
 
 Add
 
