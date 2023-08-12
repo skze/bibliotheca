@@ -1,16 +1,12 @@
 # Project Management - Quality
 
-source: LinkedIn Learning
-teacher: Daniel Stanton
-Audience: project nmanagement
-duration: 30min
-date: Aug/2023
+> Note: The info in this page is a summary of the relevant information in the context of quality project management and was extracted from different resources (see in Resources).
 
-The information taken here was part of the course. Additional information was 
-added to provide a more comprehenside understanding on the topic.
-
-to A Guide to the Project Management Body of Knowledge (PMBOK® Guide), quality
-
+**Index**
+* Introduction and Key Concepts
+* Quality for Project Management
+* Project Quality Phases
+* Resources
 
 
 ## Introduction
@@ -330,10 +326,11 @@ Within the project there is also a number of potential issues that can derail th
 ### References
 
 1. Chapter 8 of A Guide to the Project Management Body of Knowledge, Third Edition (PMBOK® Guide)
-2. 
+2. [Project Management Foundations: Quality | LinkedIn Learning](https://www.linkedin.com/showcase/project-management-foundations-quality/)
 3. [Quality in project management - a practical look at chapter 8 of the PMBOK® guide](https://www.pmi.org/learning/library/quality-project-management-tools-7177)
 4. [A Guide to Project Management Body of Knowledge, Chapter 8](http://www.pmworkplace.com/PMP/A_Guide_to_the_Project_Management_Body_of_Knowledge_PMBOKGuide/)
 5. [Quality Management and Continuous Improvement | Google Project Management Certificate](https://www.youtube.com/watch?v=QOy2gYuWxSc)
-6. 
 
-- **Reference:** *Chapter 8 of A Guide to the Project Management Body of Knowledge, Third Edition (PMBOK® Guide)*
+
+
+
