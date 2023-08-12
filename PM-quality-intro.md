@@ -70,7 +70,6 @@ Here are some questions to guide the planning process:
 * *How can I meet their expectations?*
 * *How will I determine if the quality measure will lead to project success?*
 
-
 **Quality Assurance (QA)**
 
 Evaluating if your project is moving towards delivering a high-quality service or product. This is a 
@@ -82,15 +81,12 @@ This step involves monitoring project results and delivery to determine if they 
 techniques are used in order to ensure quality standards when a problem is identified.
 
 ---
-'''![aa](https://www.projectengineer.net/wp-content/uploads/2016/12/pmbok-knowledge-area-project-quality-management.png) '''
+PM Quality reference [ check [here]([PMBOK® Guide (6th Edition) – Chapter 8 – Quality Management](http://www.pmworkplace.com/PMP/A_Guide_to_the_Project_Management_Body_of_Knowledge_PMBOKGuide/images/9342182-00_0.jpg)) for older version)
 
-![ab](http://www.pmworkplace.com/PMP/A_Guide_to_the_Project_Management_Body_of_Knowledge_PMBOKGuide/images/9342182-00_0.jpg)
+** *Note: terminology might have changed ( Quality assurance => control quality and Quality control => control quality)*
 
----
+![aa](https://www.projectengineer.net/wp-content/uploads/2016/12/pmbok-knowledge-area-project-quality-management.png)
 
-[![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectengineer.net%2Fproject-quality-management-according-to-the-pmbok%2F&psig=AOvVaw30V0DRhxPPajjvTMDq3FX3&ust=1691848768638000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjg2pv44dSAAxWTpekKHfD7AKgQjRx6BAgAEAw))](https://digitalocean.com)
-
-![image info](pictures/image.png)
 
 ## Key Concepts
 
@@ -108,7 +104,7 @@ For each concept it is provided a short description, example and/or further refe
 - Pareto Analysis
 - Quantitative Metrics
 - Qualitatigve Matrics
-- Testting, Audits and Inspections
+- Testing, Audits and Inspections
 
 Key approaches to try measurre project
 
@@ -120,86 +116,58 @@ Key approaches to try measurre project
 | Accuracy | How close have we come to achieving our goal ? |
 | Tolerance | Are we doing well enought ? DOes the result falls into acceptable range ? |
 
-Quality measurementgs allow to track project status and identify actions and processes which can be improved.
+
+#### Quality is Free ?!
+
+> "Quality is free." - Philip Crosby (American Businessman)
+
+Why? Because if you have poor quality it costs someone money [book](https://www.amazon.com/Quality-Free-Philip-B-Crosby/dp/0451622472). This is because poor quality can impact the companies product or is cost passed to the customers.
 
 
-"Quality is free."
-- Philip Crosby
-(American Businessman)
-
-Why. Because if you have poor quality it costs someone money. This is because poor quality can impact the companies product or is cost passed to the cuastomers.
-
-
-Try:
-1.  find areas where money can be safety saved
-2. try new approaches to reducting costs
-
-[ add figure 1`0 concepts quality here ]
 
 ## Project Quality Management Phases
 
+Hereafter follows a description of the different phases within a project.
+
+* Quality Standards **
+* Quality Planning
+* Quality Assurance (or Managing Quality)
+* Quality Control
+* Improvements **
+
+Note that this listing might change based on reference/source and ** quality standards and improvements do not appear explicitely, but
+these steps are encapsulated in other phases.
+
+#### Quality Standards
+
 < TODO >
-
-### Continuous Improvement
-
-Makes quality a part of everyone's job and that should
-improve project management.
-
-1. Assess project plans: make sure to question assumptions and scope
-
-
-2. Assess project management process: identify ways to 
-reduce cost, improve efficiency, effective tracking, 
-and provide more value
-
-<!> small improvements can add up and leat to massive gains in the long run
 
 #### Quality Planning
 
-Planning occur at the initial stages of project - the key objectives is to:
-- define and limit the scope of work within the project
-- develop a clear set of requirements to measure quality of project
-
-Note that quality metrics defined in this project should only obe applicable in
-this project.
-
-
-Defines the scope, schedule, budget, inputs and outomts etc. It is the method to define the relevant aspects withih the projce.
+Planning occurs at the initial stages of project and defines the scope, schedule, budget, inputs and outomts etc. It is the method
+to define the relevant aspects withih the project including developing a clear set of requirements to measure quality of project.
 Within planning stage it is also defined the critical aspects and factors that lead to successfull project.
 
+> Here, you identify the gap between where you are and where you need to be. This leads to the creation of a quality team, which is comprised of people across all departments and levels.
+> Define the roles and responsibilities for quality management: These people are accountable for each step in the quality management plan.
+> Establish Quality Control Procedures: Once you’ve defined what your quality standards are, you’ll need to establish procedures to measure whether those standards are being met or not, which is known as quality control.
+>Create acceptance criteria: This is tied to how you’ll do testing and review. Once you identify weaknesses, brainstorm with your team and integrate the needed quality improvements to your product or service.
+
 Planning should include:
-- Objectives
-- scope
-- policies
-- criteria
-- expected inputs and outputs
-- cost, budge
-- scheduling
-- assumptions and considerations
+- Objectives and scope
+- Policies and criteria
+- Expected inputs and outputs
+- Cost, budge
+- Scheduling
+- Assumptions and considerations
 - Processes
 - Stakeholders, roles and responsibilities
 - Applied standards (internal, external)
-- metrics to measure quality
+- Metrics to measure quality
 
-Each project should have a specific tracking and control proess - that is set before project starts.
-
-<!> note: the quality planning process is part of a larger "project planning phase" which includes non-quality topics.
-
-Outcome: THere should be documentation outlining the quality management plan  - and all the necessary quality informaiton. Thus inclides:
-
-// IMportant
-- "Determint quality": need to define twhat is quality for the project - this might vary from orfanization-to-org; and also between different projects.
-- "Conduct gap analysis" 
-- /// copy
-Here, you identify the gap between where you are and where you need to be. This leads to the creation of a quality team, which is comprised of people across all departments and levels.
-Define the roles and responsibilities for quality management: These people are accountable for each step in the quality management plan.
-Establish Quality Control Procedures: Once you’ve defined what your quality standards are, you’ll need to establish procedures to measure whether those standards are being met or not, which is known as quality control.
-Create acceptance criteria: This is tied to how you’ll do testing and review. Once you identify weaknesses, brainstorm with your team and integrate the needed quality improvements to your product or service.
-Things to Avoid When Quality Pl
-
-/// copy
-
-
+Each project should have a specific tracking and control process which is set before project starts.
+The quality planning process is part of a larger "project planning phase" which includes non-quality topics.
+From this phase there should be documentation outlining the quality management plan (QMP) which outlines all the necessary quality information.
 
 #### Quality Assurance
 
@@ -217,17 +185,33 @@ Quality control focuses on measuring and tracking the data from metrics previous
 - could involve testing, auding and certifications of products or processes
 
 > Example: you want to make a Pizza
-1. planning includes defining the task needs: ingrediaents, utelsiz, kitchen, oven
-2. assurance includes making sure we follow the recipe, cleaning the kitchen
-3. quality cointolr includes checking for the final result pizzza (taste, size, etc..)
+> 1. planning includes defining the task needs: ingrediaents, utelsiz, kitchen, oven
+> 2. assurance includes making sure we follow the recipe, cleaning the kitchen
+> 3. quality cointolr includes checking for the final result pizzza (taste, size, etc..)
+
+#### QA vs QC
+
+*How is Quality-Assurance different from Quality-Control?*
+
+Quality assurance is the guidelines, policies, and procedures
+to make a high-quality product and avoid defects. In contrast, quality control is the product's actual review during
+production to ensure it is created to the highest standards.15 Jun 2023
+
+![AssuranceVsControl](https://pmstudycircle.com/wp-content/uploads/2022/07/table-showing-difference-between-qa-and-qc.png.webp)
+
+Ref: [Ref01](https://jelvix.com/blog/quality-assurance-vs-quality-control), [Ref02](https://pmstudycircle.com/quality-assurance-vs-quality-control/)
 
 #### Continuous Improvement 
 
-Add
+Continuous improvement is an important aspect to keep in mind during project progress. 
+Makes quality a part of everyone's job and that should improve project management.
+Avoid making significant changes. The key idea is that small improvements can add up
+and lead to massive gains in the long run.
 
+1. Assess project plans: make sure to question assumptions and scope
+2. Assess project management process: identify ways to reduce cost,
+improve efficiency, effective tracking, and provide more value
 
-
----
 
 ## Methodologies and Frameworks
 
@@ -244,26 +228,9 @@ It includes a number of processes and concepts:
 * Gemba: go to the place where the task is performed
 * Kaizen: conduct a workshop to redesign a process and improve efficiency
 * Muda: eight types of waste associated with current process
-  - transportation
-  - inventory
-  - motion
-  - waiting
-  - overproduction
-  - overprocessing
-  - defects
-  - skills
+  - transportation, inventory, motion, waiting, overproduction, overprocessing, defects, skills
 
-Order and organization is a part of minimizing waste - and managenent qwuality
-
-5-S
-
-> sort thing
-> set in order
-> shine (or clean them)
-> standardize (process)
-> sustain the new organiza
-
-steven brown : Lean :LinkedIn Learning
+Good resource: [quality-foundations/LinkedIn](https://www.linkedin.com/learning/quality-management-foundations/)
 
 #### Six-Sigma
 
@@ -278,7 +245,6 @@ DMAIC Methodology:
 * Analyze: check the results and identify sources of variability
 * Improve: improve the process (by selecting the best combiination of veriables)
 * Control: keep control over the selected improved process
-
 
 #### Agile
 
@@ -306,7 +272,7 @@ House of Quality is a product planning matrix that is used to show how your cust
 HOQ diagrams resemble the shape of a house and should be created using direct customer input if applicable. HOQ is considered the primary tool in QFD and serves as the roadmap for describing the journey from initial idea to final product or service specifics. 
 This methodology is useful as it allows to identify which features of product or project are essentially to meet requirements - and maximize value created with the project.
 
-Refs:[LucidChart-HoQ](https://www.lucidchart.com/blog/qfd-house-of-quality), [GeeksforGeeks-HoQ](https://www.geeksforgeeks.org/house-of-quality-example-in-software-quality/), [isixsigma-HoQ](https://www.isixsigma.com/dictionary/house-of-quality/)
+Refs: [LucidChart-HoQ](https://www.lucidchart.com/blog/qfd-house-of-quality), [GeeksforGeeks-HoQ](https://www.geeksforgeeks.org/house-of-quality-example-in-software-quality/), [isixsigma-HoQ](https://www.isixsigma.com/dictionary/house-of-quality/)
 
 #### Pareto Analysis
 
@@ -344,21 +310,24 @@ Typically, QA uses inpections and audits while QC uses testing.
 * Testing:L exammination of product to check if product complies with expected specs
 
 
-##### What to avoid
+#### What to avoid
 
-- review and revise the quality plan throughout the project
-- avoid big changes - better make small changes in increments
-- stay objective
+Within the project there is also a number of potential issues that can derail the progress. Here are some to avoid
 
-
-#### Templates
-- https://www.smartsheet.com/sites/default/files/2021-11/IC-Project-Quality-Plan-11234_PDF.pdf
-- [stakeholdermap.com/quality-management-plan.word](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.stakeholdermap.com%2Fproject-templates%2Fquality-management-plan.doc&wdOrigin=BROWSELINK)
-- [CDC_UP_Quality_Management_Plan_Template.word](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww2a.cdc.gov%2Fcdcup%2Flibrary%2Ftemplates%2FCDC_UP_Quality_Management_Plan_Template.doc&wdOrigin=BROWSELINK)
+* do not freeze quality-plan - periodically revise the quality plan throughout the project
+* avoid big changes - better make small changes in increments
+* avoid deviating from the current problem - stay objective
 
 
+## Resources
 
-## References
+### Templates
+
+* [smartsheets-quality-plan](https://www.smartsheet.com/sites/default/files/2021-11/IC-Project-Quality-Plan-11234_PDF.pdf)
+* [stakeholdermap.com/quality-management-plan.word](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.stakeholdermap.com%2Fproject-templates%2Fquality-management-plan.doc&wdOrigin=BROWSELINK)
+* [CDC_UP_Quality_Management_Plan_Template.word](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww2a.cdc.gov%2Fcdcup%2Flibrary%2Ftemplates%2FCDC_UP_Quality_Management_Plan_Template.doc&wdOrigin=BROWSELINK)
+
+### References
 
 1. Chapter 8 of A Guide to the Project Management Body of Knowledge, Third Edition (PMBOK® Guide)
 2. 
